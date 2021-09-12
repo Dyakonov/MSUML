@@ -4,11 +4,17 @@
 * для бакалавров 3 потока 3 курса
 * лектор: [Александр Дьяконов](https://dyakonov.org/ag/)
 
+### рекомендации
+
+Для тех, у кого проблемы с Питоном и его библиотеками:
+
+* [Канал курса "Введение в машинное обучение" (версия 2020 года)](https://www.youtube.com/playlist?list=PLaRUeIuewv8DYqSdw7uVgLpXSKUFl6Ee6)
+
 ### видео
 
 * [канал курса](https://www.youtube.com/playlist?list=PLaRUeIuewv8BFD3UwCDBetM89c2uRPpcj)
 
 ### слайды лекций
 
-1. [Вводная лекция](./2021autumn/ML012_terms_202102a.pdf) (11.02.2019)
-2. [Постановка основных задач](./2021autumn/ML013_introclassreg_202102a.pdf) (11.02.2019)
+1. [Вводная лекция](./2021autumn/ML012_terms_202102a.pdf) (07.09.2021)
+2. [Постановка основных задач](./2021autumn/ML013_introclassreg_202102a.pdf) (14.09.2021)
