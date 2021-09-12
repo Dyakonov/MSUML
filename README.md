@@ -9,6 +9,7 @@
 Для тех, у кого проблемы с Питоном и его библиотеками:
 
 * [Канал курса "Введение в машинное обучение" (версия 2020 года)](https://www.youtube.com/playlist?list=PLaRUeIuewv8DYqSdw7uVgLpXSKUFl6Ee6)
+* [и его гитхаб](https://github.com/Dyakonov/IML/)
 
 ### видео
 
