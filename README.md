@@ -10,6 +10,7 @@
 
 * [Канал курса "Введение в машинное обучение" (версия 2020 года)](https://www.youtube.com/playlist?list=PLaRUeIuewv8DYqSdw7uVgLpXSKUFl6Ee6)
 * [и его гитхаб](https://github.com/Dyakonov/IML/)
+* [Гитхаб по всему курсу](https://github.com/MSU-ML-COURSE/ML-COURSE-21-22) (три потока)
 
 ### видео
 
