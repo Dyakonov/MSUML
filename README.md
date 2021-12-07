@@ -31,3 +31,5 @@
 11. [Ансамбли алгоритмов](./2021autumn/PZAD051_ensemble_202102a____part1.pdf) (16.11.2021)
 12. [Случайные леса и AdaBoost](./2021autumn/PZAD052_rf_202101a_____+adaboost.pdf) (23.11.2021)
 13. [Градиентный бустинг](./2021autumn/PZAD053_gradboosting_202106n___.pdf) (30.11.2021)
+14. [Селекция (отбор) признаков](./2021autumn/PZAD043_featureselection_202109___.pdf) (07.12.2021)
+
