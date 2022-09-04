@@ -16,6 +16,10 @@
 
 * [канал курса](https://www.youtube.com/playlist?list=PLaRUeIuewv8BFD3UwCDBetM89c2uRPpcj)
 
+### конспекты
+
+* Могут появляться [в этом канале](https://t.me/Dyakonovsbook)
+
 ### слайды лекций
 
 1. [Вводная лекция](./2021autumn/ML012_terms_202102a.pdf) (07.09.2021)
