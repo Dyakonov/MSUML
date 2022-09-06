@@ -15,6 +15,7 @@
 ### видео
 
 * [канал курса](https://www.youtube.com/playlist?list=PLaRUeIuewv8BFD3UwCDBetM89c2uRPpcj)
+* [видео 2022 года](https://www.youtube.com/watch?v=q4BBLoiegW0&list=PLhe7c-LCgl4Ic-FRawaaEhUmDCQmGMtzx)
 
 ### конспекты
 
